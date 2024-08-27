@@ -1,0 +1,24 @@
+.table{
+    border-spacing: 0px;
+    border-collapse: collapse;
+    border-bottom: 1px solid black;
+    
+}
+.table th,td{
+    padding: 10px;
+    border-bottom: 1px solid #c4dcf3;
+}
+.thead{
+    background-color: #427fef;
+    color: white;
+    
+}
+
+.tfoot{
+    background-color: #427fef;
+    color: white;
+    text-align: left;
+}
+tbody tr:nth-child(odd){
+    background-color: #eef7ff;
+}

@@ -1,0 +1,13 @@
+.color{
+    height: 200px;
+    width: 200px;
+    background-color: gold;
+}
+
+.gradients{
+    margin-top: 40px;
+    height: 200px;
+    width: 200px;
+    /* background: linear-gradient(45deg, blue , yellow ,tomato); */
+    background: radial-gradient( yellow ,tomato);
+}
